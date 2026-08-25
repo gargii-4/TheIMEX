@@ -2,10 +2,11 @@
 /* Header logo */
 .logo-brand{
   width:110px;
-  height:32px;
+  height:34px;
   display:flex;
   align-items:center;
   overflow:visible;
+  flex-shrink:0;
 }
 
 .logo-brand img{
@@ -17,7 +18,7 @@
 
 /* Footer logo */
 .footer-brand.logo-brand{
-  width:135px;
+  width:130px;
   height:40px;
 }
 
