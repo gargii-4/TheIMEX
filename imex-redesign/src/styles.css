@@ -64,7 +64,7 @@
     align-items: center;
 }.nav-cta b{margin-left:8px;color:var(--lime)}.menu-btn{display:none;background:none;border:0;font-size:25px;color:var(--green)}
 .hero{
-    height:600px;
+    height:100px;
     min-height:0;
     position:relative;
     overflow:hidden;
