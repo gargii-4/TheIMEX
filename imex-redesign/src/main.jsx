@@ -31,7 +31,7 @@ function App() {
         <div className="hero-image" />
         <div className="hero-wash" />
         <div className="container hero-content">
-          <p className="eyebrow light"><span /> Global trade, thoughtfully done</p>
+          <p className="eyebrow light"><span />Global trade, thoughtfully done</p>
           <h1>Your next market<br /><em>is within reach.</em></h1>
           <p className="hero-copy">We help ambitious businesses source, ship and grow across borders — without the usual trade complexity.</p>
           <div className="hero-actions"><a href="#contact" className="button primary">Plan your shipment <b>→</b></a><a href="#services" className="text-link">Explore what we do <b>↓</b></a></div>
