@@ -64,8 +64,8 @@
     align-items: center;
 }.nav-cta b{margin-left:8px;color:var(--lime)}.menu-btn{display:none;background:none;border:0;font-size:25px;color:var(--green)}
 .hero{
-    height:calc(100vh - 152px);
-    min-height:620px;
+    height:600px;
+    min-height:600px;
     position:relative;
     overflow:hidden;
     background:#153c2f;
